@@ -15,7 +15,7 @@ Write a modern car show platforms.
 # Short review
 
 <div style="display: flex;">
-  <img src="https://github.com/batstolya/weekly-calendar/blob/main/src/assets/1.gif" width="400">
+  <img src="https://github.com/mo-beridze/CarShow/blob/main/public/CarHub.gif" width="400">
 </div>
 
 ## Recommended IDE Setup
