@@ -1,6 +1,6 @@
 # Car Show
 
-- DEMO LINK (https://batstolya.github.io/weekly-calendar/)
+- DEMO LINK (https://car-show-mo-beridze.vercel.app/)
 
 # General info
 
