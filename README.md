@@ -15,25 +15,21 @@ Write a modern car show platforms.
 # Short review
 
 <div style="display: flex;">
-  <img src="https://github.com/mo-beridze/CarShow/blob/main/public/CarHub.gif" width="400">
+  <img src="https://github.com/mo-beridze/CarShow/blob/main/public/CarHub.gif" width="600">
 </div>
-
-## Recommended IDE Setup
-
-- VS Code (https://code.visualstudio.com/) + Volar (https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + TypeScript Vue Plugin (Volar) (https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
 # Setup
 
 1. Clone the repository to your local machine, open terminal (GitBash for Windows users) and clone repo with command bellow:
 
-$ git clone https://batstolya/weekly-calendar.git
+$ git clone https://github.com/mo-beridze/CarShow
 
 2. Open project in terminal (or GitBash for Windows users):
 
-$ code weekly-calendar 3. Set up project and install necessary packages in the code-editor you use:
+$ code CarShow 3. Set up project and install necessary packages in the code-editor you use:
 
 $ npm install
 
 4. Open the project in browser:
 
-$ npm start dev
+$ npm run dev
