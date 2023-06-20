@@ -20,16 +20,20 @@ Write a modern car show platforms.
 
 # Setup
 
+```sh
 1. Clone the repository to your local machine, open terminal (GitBash for Windows users) and clone repo with command bellow:
 
-$ git clone https://github.com/mo-beridze/CarShow
+$git clone https://github.com/mo-beridze/CarShow
 
 2. Open project in terminal (or GitBash for Windows users):
 
-$ code CarShow 3. Set up project and install necessary packages in the code-editor you use:
+$code CarShow
 
-$ npm install
+3. Set up project and install necessary packages in the code-editor you use:
+
+$npm install
 
 4. Open the project in browser:
 
-$ npm run dev
+$npm run dev
+```
